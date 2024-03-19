@@ -65,7 +65,6 @@
   .contact-content {
     display: flex;
     flex-direction: row;
-    justify-content: 
   }
 
   .contact-item:hover {
